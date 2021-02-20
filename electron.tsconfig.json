@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "node",
+        "target": "es2020",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "esModuleInterop": true
+    },
+    "include": ["src/electron/**/*"],
+    "exclude": ["node_modules/*", "public/*"]
+}
