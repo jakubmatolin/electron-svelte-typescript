@@ -40,4 +40,4 @@ npm run electron-build
 It will package the application using [electron-builder](https://www.electron.build/) and create an executable for Windows in `dist` folder. At the moment, there is electron-builder configuration available only for Windows in `package.json`.
 
 ## Next steps
-Adding configuration to build the application for Mac and Linux would be appreciated. I haven't added these, because I have only a Windows machine, so I am not able to test the builds for Max or Linux.
+Adding configuration to build the application for Mac and Linux would be appreciated. I haven't added these, because I have only a Windows machine, so I am not able to test the builds for Mac or Linux.
